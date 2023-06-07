@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mare9\\.nuget\\packages\\": {}
+    "C:\\Users\\vukla\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mare9\\DEV\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\vukla\\Desktop\\e-commerce-svilajnac\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\mare9\\DEV\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
-      "packagesPath": "C:\\Users\\mare9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mare9\\DEV\\MvcMovie\\MvcMovie\\obj\\",
+      "projectPath": "C:\\Users\\vukla\\Desktop\\e-commerce-svilajnac\\MvcMovie\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\vukla\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vukla\\Desktop\\e-commerce-svilajnac\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mare9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vukla\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
